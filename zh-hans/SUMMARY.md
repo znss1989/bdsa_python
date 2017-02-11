@@ -18,7 +18,8 @@
 
 ## Part III 常见算法应用与设计问题
 * [提要](part3/README.md)
-* [暴力求解](part3/Bruteforce/README.md)
+* [暴力求解](part3/bruteforce/README.md)
+* [系统设计与扩展性](part3/sys_design_scalability/README.md)
 
 ## 附录
 * [提要](appendix/README.md)
