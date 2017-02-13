@@ -20,6 +20,7 @@
 * [提要](part3/README.md)
 * [暴力求解](part3/bruteforce/README.md)
 * [递归问题](part3/recursion/README.md)
+    * [动态规划](part3/recursion/dp/README.md)
 * [系统设计与扩展性](part3/sys_design_scalability/README.md)
 
 ## 附录
