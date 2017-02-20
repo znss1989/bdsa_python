@@ -15,6 +15,7 @@
     * [模式](part2/string/pattern.md)
     * [压缩](part2/string/compress.md)
 * [栈与队列](part2/stacks_queues/README.md)
+* [映射/哈希表](part2/map/README.md)
 
 ## Part III 常见策略、算法与设计问题
 * [提要](part3/README.md)
